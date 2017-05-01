@@ -2,4 +2,6 @@
 
 ## Deployment
 
-Yes
+make
+./ft_db
+Database
